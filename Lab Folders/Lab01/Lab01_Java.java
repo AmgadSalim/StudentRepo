@@ -9,7 +9,7 @@ void testMethod1()
 
 
 
-  //Last line print('bye, bye')
+  //Last line print('TA, TA')
 }
 
 void testMethod2()
