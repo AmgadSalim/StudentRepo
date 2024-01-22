@@ -7,7 +7,7 @@ void testMethod1()
   // edit made by Student-Amgad
 
 
-  //Last line print('Good bye')
+  //Last line print('bye, bye')
 }
 
 void testMethod2()
